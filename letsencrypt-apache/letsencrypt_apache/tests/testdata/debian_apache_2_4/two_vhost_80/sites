@@ -1,2 +1,4 @@
 sites-available/letsencrypt.conf, letsencrypt.demo
+sites-available/letsencrypt-ipv6.conf, letsencrypt-ipv6.demo
 sites-available/encryption-example.conf, encryption-example.demo
+sites-available/encryption-example-mixed-ip.conf, encryption-example-mixed-ip.demo
